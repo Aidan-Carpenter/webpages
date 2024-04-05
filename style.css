@@ -19,5 +19,6 @@ p {
 	  max-height: 250px;
 }
 
-.photo-border { 
-	border: 2px solid #00FF00
+img {
+  border: 5px solid #555;
+}
